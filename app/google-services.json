@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "500839634518",
+    "firebase_url": "https://faizalsudrajat-ac03e.firebaseio.com",
+    "project_id": "faizalsudrajat-ac03e",
+    "storage_bucket": "faizalsudrajat-ac03e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:500839634518:android:0e7c54146cb7bc34",
+        "android_client_info": {
+          "package_name": "com.example.sal.faizalsudrajat_1202150074_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "500839634518-fc4005sdpcbsk2cuha0kja2df26ppu64.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDS9zf1oh10cIf6wDjKGAeDOO3a7CSixkQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
